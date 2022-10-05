@@ -8,7 +8,7 @@ Analyzing Police Service in the Presence of Misconduct_]() by Anna Haensch, Daan
 
 ## Setting Up your Environment
 Before you get started, you'll need to create a new environment using `conda` (in case you need it, [installation guide here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)). If you use `conda` you can 
-create a new environment (we'll call it `wpd_env`) with
+create a new environment (we'll call it `my_env`) with
 
 ```
 conda create --name my_env
