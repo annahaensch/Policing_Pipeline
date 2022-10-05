@@ -1,0 +1,22 @@
+#
+##### Williamstown Policing requirements.txt
+#
+
+deskew
+fuzzywuzzy
+gitpython
+matplotlib
+notebook
+opencv-python
+pandas
+pdf2image
+pyei
+PyPDF2
+pymc
+pytesseract
+python-Levenshtein
+scipy
+sklearn
+tesseract
+usaddress
+
