@@ -5,6 +5,7 @@
 deskew
 fuzzywuzzy
 gitpython
+lxml
 matplotlib
 notebook
 opencv-python
@@ -17,6 +18,7 @@ pytesseract
 python-Levenshtein
 scipy
 sklearn
+statsmodels
 tesseract
 usaddress
 
