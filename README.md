@@ -42,8 +42,9 @@ Now your environment should be set up to run anything in this library.
 
 To help get you started, we've included some helpful notebooks.  First, `Getting_Started_with_the_Data.ipynb` will walk you through loading the data and doing some preliminary analysis.  Additionally, all analysis from the paper above can be recreated using the notebooks: 
 
-* `Ecological_Inference_Calls_for_Service.ipynb`
-* `Poisson_Regression_Figures_for_Report.ipynb`
+* `Data_Processing.ipynb`
+* `EI_Model_Fit_and_Analysis.ipynb`
+* `NB_Model_Fit_and_Analysis.ipynb`
 
 ## Parsing the pdf Logs
 Parsing the log consists of two steps.  First we use the Tessearct Optical Character Recognition (OCR) tool to turn the scanned pdfs into a tabular parquet file. Next we parse the data in the parquet file to get a csv that matches the original call logs.  If you've already done the OCR part you can skip to step 2.
