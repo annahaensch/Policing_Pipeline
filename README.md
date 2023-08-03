@@ -66,4 +66,4 @@ python parquet_to_csv.py 2020
 
 Please be advised that this pipeline can be buggy and needs some attention, so please feel free to either [raise issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) or [open pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with bug fixes as you see them. 
 
-
+[![DOI](https://zenodo.org/badge/546321413.svg)](https://zenodo.org/badge/latestdoi/546321413)
