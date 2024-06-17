@@ -3,7 +3,7 @@
 ## Background
 
 This repository is contains the computational elements of [_A Multi-Method Data Science Pipeline for
-Analyzing Police Service in the Presence of Misconduct_]() by Anna Haensch, Daanika Gordon, Karin Knudson, and Justina Cheng.
+Analyzing Police Servicet_]() by Anna Haensch, Daanika Gordon, Karin Knudson, and Justina Cheng.
 
 
 ## Setting Up your Environment
